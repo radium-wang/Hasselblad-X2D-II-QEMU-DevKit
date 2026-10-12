@@ -1,5 +1,9 @@
 # Hasselblad X2D II QEMU DevKit
 
+## 欢迎交流
+
+欢迎交流、分享研究发现和使用反馈。欢迎通过 [Issues](https://github.com/radium-wang/Hasselblad-X2D-II-QEMU-DevKit/issues) 讨论问题与建议，也欢迎提交 [Pull Requests](https://github.com/radium-wang/Hasselblad-X2D-II-QEMU-DevKit/pulls) 改进代码、文档和测试。
+
 **Windows 原生工作台：拖入官方固件，启动原厂界面，开发你的应用。**
 
 [English](README.md) · [下载 Windows 便携版](https://github.com/derrickyau9/Hasselblad-X2D-II-QEMU-DevKit/releases/latest) · [哈苏官方固件](https://www.hasselblad.com/zh-cn/x-system/firmware/)

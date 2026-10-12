@@ -1,5 +1,11 @@
 # Hasselblad X2D II QEMU DevKit
 
+## 欢迎交流 / Discussion and contributions
+
+欢迎交流、分享研究发现和使用反馈。欢迎通过 [Issues](https://github.com/radium-wang/Hasselblad-X2D-II-QEMU-DevKit/issues) 讨论问题与建议，也欢迎提交 [Pull Requests](https://github.com/radium-wang/Hasselblad-X2D-II-QEMU-DevKit/pulls) 改进代码、文档和测试。
+
+Discussion, research findings and feedback are welcome. Please use [Issues](https://github.com/radium-wang/Hasselblad-X2D-II-QEMU-DevKit/issues) for questions and suggestions, and submit [Pull Requests](https://github.com/radium-wang/Hasselblad-X2D-II-QEMU-DevKit/pulls) to improve code, documentation and tests.
+
 **A native Windows workbench for exploring the original X2D II interface and developing guest apps.**
 
 [简体中文](README.zh-CN.md) · [Download Windows app](https://github.com/derrickyau9/Hasselblad-X2D-II-QEMU-DevKit/releases/latest) · [Official firmware](https://www.hasselblad.com/x-system/firmware/)
